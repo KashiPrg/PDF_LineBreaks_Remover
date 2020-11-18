@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "PDF LineBreaks Remover"
+    },
+    "extDescription": {
+        "message": "右クリックメニューに、最後にコピーした文字列中の改行を取り除く機能を追加します。"
+    },
+    "conMenuCopiedTextLineBreaksRemove": {
+        "message": "最後にコピーした文字列中の改行を取り除く"
+    },
+    "shortcutCopiedTextLineBreaksRemove": {
+        "message": "最後にコピーした文字列中の改行を取り除く"
+    }
+}
